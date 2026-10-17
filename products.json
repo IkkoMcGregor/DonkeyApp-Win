@@ -1,5 +1,5 @@
 [
-  { "name": "Blé", "max": 8000, "location": "Entrepôt" },
+  { "name": "Blé", "max": 18000, "location": "Entrepôt" },
   { "name": "Lait", "max": 5000, "location": "Entrepôt" },
   { "name": "Maïs", "max": 4000, "location": "Entrepôt" },
   { "name": "Tomate", "max": 2000, "location": "Entrepôt" },

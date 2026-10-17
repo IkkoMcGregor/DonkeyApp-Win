@@ -1,0 +1,14 @@
+[
+  { "name": "Blé", "max": 8000, "location": "Entrepôt" },
+  { "name": "Lait", "max": 5000, "location": "Entrepôt" },
+  { "name": "Maïs", "max": 4000, "location": "Entrepôt" },
+  { "name": "Tomate", "max": 2000, "location": "Entrepôt" },
+  { "name": "Oeuf", "max": 5000, "location": "Silo" },
+  { "name": "Orange", "max": 2000, "location": "Silo" },
+  { "name": "Pain", "max": 8000, "location": "Entrepôt" },
+  { "name": "Patate", "max": 2000, "location": "Silo" },
+  { "name": "Pomme", "max": 2000, "location": "Silo" },
+  { "name": "Cornet", "max": 2000, "location": "Silo" },
+  { "name": "Salade", "max": 2000, "location": "Entrepôt" },
+  { "name": "Riz", "max": 3000, "location": "Silo" }
+]
